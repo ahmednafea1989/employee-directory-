@@ -26,17 +26,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-## Usage 
-This was primarily made to meet the requirements of a homework assignment. It could be used as the basis for a to-do app.
 
-## Credits 
-I created this code based on the homework prompt created by Triology Education Services. Certain pieces of code I used online resources for help. I have included citations in the form of comments throughout the code. Image credits are located below the image.
 
-## Contributing 
-I was the only one to work on this project, but of course I had help from my instructor, TA's, and classmates.
-
-## Challenges
-The major challenge was using React for the first time. Figuring out how to properly implement the hook useEffect was a struggle for me for awhile. I built out my components before thinking about how I would pass values around through components, which resulted in me having to learn how to implement the handle useContext. This allowed me to pass around the employees and update them without having to worry about parent child relationships to allow for prop passing.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
